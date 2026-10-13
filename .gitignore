@@ -1,0 +1,10 @@
+.venv/
+.tools/
+__pycache__/
+*.py[cod]
+output/
+.qr-test-*/
+.pytest_cache/
+# File pribadi tidak dimasukkan ke Git; file lokal tetap tersimpan.
+data/*
+!data/.gitkeep
